@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 master first // wo juede buxing
 feature second
+=======
+master first 
+master second 
+>>>>>>> 319df54173a35c8a9daa056900c9c671cccdf837
